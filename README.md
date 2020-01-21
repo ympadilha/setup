@@ -13,3 +13,7 @@ https://github.com/junegunn/fzf
 
 Don't forget to run the `install` steps after.
 
+## Jenv
+
+https://developer.bring.com/blog/configuring-jenv-the-right-way/
+
