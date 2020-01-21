@@ -17,3 +17,7 @@ Don't forget to run the `install` steps after.
 
 https://developer.bring.com/blog/configuring-jenv-the-right-way/
 
+## NVM
+
+https://github.com/nvm-sh/nvm
+
