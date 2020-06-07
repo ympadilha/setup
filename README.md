@@ -21,3 +21,6 @@ https://developer.bring.com/blog/configuring-jenv-the-right-way/
 
 https://github.com/nvm-sh/nvm
 
+## iTerm key bindings
+
+https://gist.github.com/squarism/ae3613daf5c01a98ba3a
