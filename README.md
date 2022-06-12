@@ -17,9 +17,9 @@ Don't forget to run the `install` steps after.
 
 https://developer.bring.com/blog/configuring-jenv-the-right-way/
 
-## NVM
+## Volta
 
-https://github.com/nvm-sh/nvm
+https://volta.sh/
 
 ## iTerm key bindings
 
