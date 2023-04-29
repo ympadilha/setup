@@ -3,6 +3,7 @@
 For now just storing the non-trivial ones here (the ones I'll mostly forget eventually)
 
 ## Terminal color scheme
+
 https://iterm2colorschemes.com/
 
 Arthur is nice.
@@ -24,3 +25,18 @@ https://volta.sh/
 ## iTerm key bindings
 
 https://gist.github.com/squarism/ae3613daf5c01a98ba3a
+
+## Exa (better ls)
+
+https://github.com/ogham/exa
+
+Don't forget to `export LS_COLORS={LS_COLORS FILE HERE}`
+Yes it starts with the `bd=`
+
+## Ripgrep (rg)
+
+https://github.com/BurntSushi/ripgrep
+
+## Bat (better cat)
+
+https://github.com/sharkdp/bat
