@@ -33,6 +33,16 @@ https://github.com/ogham/exa
 Don't forget to `export LS_COLORS={LS_COLORS FILE HERE}`
 Yes it starts with the `bd=`
 
+### Shortcuts
+
+alias ll='exa -la --icons'
+alias ls='exa'
+
+### Fonts
+
+Nerdfonts
+`brew install --cask font-jetbrains-mono`
+
 ## Ripgrep (rg)
 
 https://github.com/BurntSushi/ripgrep
