@@ -1,6 +1,6 @@
 # Setup
 
-For now just storing the non-trivial ones here (the ones I'll mostly forget eventually)
+For now just storing the non-trivial ones here (the ones I'll mostly forget eventually).
 
 ## Terminal color scheme
 
@@ -40,10 +40,13 @@ alias ls='exa'
 
 ### Fonts
 
-Nerdfonts
-`brew install --cask font-jetbrains-mono`
+#### Nerdfonts
 
-![](awesome-font-install-example.png)
+https://www.programmingfonts.org/#jetbrainsmono
+
+Copy the whole folder `JetBrainsMono` to ~/Library/Fonts.
+
+In iTerm setup, use JetBrains Mono NL NF to get the big icon sizes.
 
 ## Ripgrep (rg)
 
