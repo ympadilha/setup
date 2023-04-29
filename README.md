@@ -43,6 +43,8 @@ alias ls='exa'
 Nerdfonts
 `brew install --cask font-jetbrains-mono`
 
+![](awesome-font-install-example.png)
+
 ## Ripgrep (rg)
 
 https://github.com/BurntSushi/ripgrep
