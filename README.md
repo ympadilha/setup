@@ -26,6 +26,23 @@ https://volta.sh/
 
 https://gist.github.com/squarism/ae3613daf5c01a98ba3a
 
+## Tmux
+
+`.tmux.conf`
+
+```
+# remap prefix from 'C-b' to 'C-space;'
+unbind C-b
+set-option -g prefix C-space;
+bind-key C-space; send-prefix
+
+# Start window numbering at 1
+set -g base-index 1
+
+# Start pane numbering at 1
+setw -g pane-base-index 1
+```
+
 ## Exa (better ls)
 
 https://github.com/ogham/exa
