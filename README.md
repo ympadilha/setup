@@ -59,11 +59,9 @@ alias ls='exa'
 
 #### Nerdfonts
 
-https://www.programmingfonts.org/#jetbrainsmono
-
-Copy the whole folder `JetBrainsMono` to ~/Library/Fonts.
-
-In iTerm setup, use JetBrains Mono NL NF to get the big icon sizes.
+- `brew install --cask font-jetbrains-mono-nerd-font`
+- In iTerm2, go to Preferences → Profiles → Text
+- JetBrainsMonoNL Nerd Font Mono
 
 ## Ripgrep (rg)
 
