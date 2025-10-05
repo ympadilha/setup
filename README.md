@@ -72,10 +72,8 @@ set -g @catppuccin_pane_border_style "fg=#{@thm_overlay_0}"
 set -g @catppuccin_pane_active_border_style "fg=#{@thm_peach}"
 
 set -g @catppuccin_pane_number_position "left"
-# set -g @catppuccin_pane_default_text "#{pane_title}"
 set -g @catppuccin_pane_default_fill "number"
 set -g @catppuccin_pane_background_color "#{@thm_surface_0}"
-# set -g @catppuccin_menu_selected_style "fg=#{@thm_fg},bold,bg=#{@thm_overlay_0}"
 
 # Misc
 set -g default-terminal "tmux-256color"
