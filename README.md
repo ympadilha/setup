@@ -43,8 +43,8 @@ bind K send-keys -R \; clear-history
 
 # remap prefix from 'C-b' to 'C-space;'
 unbind C-b
-set-option -g prefix C-space;
-bind-key C-space; send-prefix
+set -g prefix C-Space
+bind-key C-Space send-prefix
 
 # Mouse controls
 set -g mouse on
