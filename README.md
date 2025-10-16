@@ -28,15 +28,15 @@ https://gist.github.com/squarism/ae3613daf5c01a98ba3a
 
 ## Tmux config
 
-[TMux Configuration](tmux-config.md)
+[Tmux configuration](tmux-config.md)
 
 ### Tmuxinator config
 
-[TMux Configuration](tmuxinator-config.md)
+[Tmuxinator configuration](tmuxinator-config.md)
 
 ## Zsh config
 
-[TMux Configuration](zsh-config.md)
+[Zsh configuration](zsh-config.md)
 
 ## Exa (better ls)
 
