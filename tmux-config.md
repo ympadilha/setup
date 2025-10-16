@@ -22,6 +22,9 @@ bind-key C-space \; send-prefix
 # Vim-like for copy-paste controls
 setw -g mode-keys vi
 
+# Remap pane zoom toggle to Enter
+bind Enter resize-pane -Z
+
 # Keybinding to rename (Prefix + T)
 bind T command-prompt -p "Pane title:" "select-pane -T '%%'"
 
