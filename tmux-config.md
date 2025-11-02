@@ -22,6 +22,9 @@ bind-key C-space \; send-prefix
 # Vim-like for copy-paste controls
 setw -g mode-keys vi
 
+# Enable mouse support for scrolling, copy-pasting, and pane selection
+set -g mouse on
+
 # Remap pane zoom toggle to Enter
 bind Enter resize-pane -Z
 
