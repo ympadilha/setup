@@ -2,8 +2,7 @@
 
 `config/tmux/tmux.conf`
 
-```
-# Bind r to reload source-file
+```# Bind r to reload source-file
 unbind r
 bind r source-file ~/.config/tmux/tmux.conf
 
@@ -85,5 +84,7 @@ set -g @plugin 'catppuccin/tmux'
 
 run '~/.config/tmux/plugins/tpm/tpm'
 
-set -g pane-border-format "#[fg=#a6e3a1,bg=default]█#[fg=#313244,bg=#a6e3a1]#{pane_index}#[fg=#a6e3a1,bg=#313244]█ #[fg=#a6e3a1,bg=#313244]#{pane_title}#[fg=#313244,bg=default]█"
+set -g pane-border-format "#[fg=#a6e3a1,bg=default]█#[fg=#313244,bg=#a6e3a1]#{pane_index}#[fg=#a6e3a1,bg=#313244]█ #[fg=#a6e3a1,bg=#313244]#{pane_title}#[fg=#313244,bg=default]█
+"
+
 ```
